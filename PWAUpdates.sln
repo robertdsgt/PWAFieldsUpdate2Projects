@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWAUpdates", "PWAUpdates\PWAUpdates.csproj", "{C5F9B02F-6D33-43E0-B659-D9CECD3D3B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F9B02F-6D33-43E0-B659-D9CECD3D3B67}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C5F9B02F-6D33-43E0-B659-D9CECD3D3B67}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C5F9B02F-6D33-43E0-B659-D9CECD3D3B67}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C5F9B02F-6D33-43E0-B659-D9CECD3D3B67}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
